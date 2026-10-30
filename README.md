@@ -56,7 +56,7 @@ This script requires FFmpeg to process video files.
 ### Additional notes
 If you run into installation errors ask an AI for help, make sure to specify whether you are using a CPU-only system or have a GPU.
 
-Please give a like to my videos and subscribe!
+Give a like to my videos and subscribe!
 https://www.youtube.com/@jonislab
 
 
